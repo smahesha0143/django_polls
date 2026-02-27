@@ -1,0 +1,6 @@
+#ignore environment
+#python catch file
+#pip(python install package)
+
+env
+*.pyc
